@@ -1,1 +1,2 @@
-echo mkdir up_to_date
+git pull https://github.com/owen20108/alx-pre_course.git
+
